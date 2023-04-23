@@ -12,6 +12,9 @@
 
 - :e-mail: faybeata.k@gmail.com
 
+---
+
+## Check Out My [Website](https://faybeez.github.io/)! :sparkling_heart:
 <!--
 **faybeez/faybeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
