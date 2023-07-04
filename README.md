@@ -1,18 +1,18 @@
 # Hi! <img src= "assets/bee.gif" alt= "bee gif" height="35">
 
+<img align="right" src="assets/SL_00563.JPG" alt="photo" height="250px">
+
 ## A Bit About Me ‎  <img src="assets/sparkles.gif" alt="sparkles" height="25px">  
 
 - :woman: 18 years old
 - :dancer: She / her
 - :earth_asia: Indonesian
 
----
+<br><br>
 
 ## How To Reach Me ‎ <img src="assets/confused.gif" alt="confused-spinning" height="25px">
 
 - :e-mail: faybeata.k@gmail.com
-
----
 
 ## Check Out My [Website](https://faybeez.github.io/)! :sparkling_heart:
 <!--
