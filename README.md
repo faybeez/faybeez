@@ -4,7 +4,7 @@
 
 ## A Bit About Me ‎  <img src="assets/sparkles.gif" alt="sparkles" height="25px">  
 
-- :woman: 18 years old
+- :woman: 19 years old
 - :dancer: She / her
 - :earth_asia: Indonesian
 
