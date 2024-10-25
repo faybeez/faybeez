@@ -13,23 +13,16 @@ Aspiring full-stack developer :computer: with a penchant for arts :art:
 ## How To Reach Me ‎ <img src="assets/confused.gif" alt="confused-spinning" height="25px">
 
 <div id="badges">
-
   <a href="https://www.linkedin.com/in/faybeata/">
-
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-
   </a>
 
   <a href="faybeata.k@gmail.com">
-
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-
   </a>
-
 </div>
 
-[![faybeez's GitHub stats](https://github-readme-stats.vercel.app/api?username=faybeez)](https://github.com/faybeez/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faybeez)](https://github.com/faybeez/github-readme-stats)
+<br></br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridermansb&layout=compact&langs_count=8"/>
 <!--
 **faybeez/faybeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
