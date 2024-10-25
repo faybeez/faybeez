@@ -1,20 +1,36 @@
-# Hi! <img src= "assets/bee.gif" alt= "bee gif" height="35">
+## Hellos! <img src= "assets/bee.gif" alt= "bee gif" height="35">
 
-<img align="right" src="assets/SL_00563.JPG" alt="photo" height="250px">
+<img align="right" src="assets/Photo.jpg" alt="photo of myself!" height="250px">
 
-## A Bit About Me ‎  <img src="assets/sparkles.gif" alt="sparkles" height="25px">  
+Aspiring full-stack developer :computer: with a penchant for arts :art:
 
-- :woman: 19 years old
-- :dancer: She / her
-- :earth_asia: Indonesian
+- ⚙️ I use: `java`, `javascript`, `typescript`, `C`, `python`
+- :framed_picture: I design with: `inkscape`, `illustrator`, `canva`, `clip studio paint`
+- :school: studying in: `Nanyang Technological University - Computer Science`
 
 <br><br>
 
 ## How To Reach Me ‎ <img src="assets/confused.gif" alt="confused-spinning" height="25px">
 
-- :e-mail: faybeata.k@gmail.com
+<div id="badges">
 
-## Check Out My [Website](https://faybeez.github.io/)! :sparkling_heart:
+  <a href="https://www.linkedin.com/in/faybeata/">
+
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+
+  </a>
+
+  <a href="faybeata.k@gmail.com">
+
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+
+  </a>
+
+</div>
+
+[![faybeez's GitHub stats](https://github-readme-stats.vercel.app/api?username=faybeez)](https://github.com/faybeez/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faybeez)](https://github.com/faybeez/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridermansb&layout=compact&langs_count=8"/>
 <!--
 **faybeez/faybeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
