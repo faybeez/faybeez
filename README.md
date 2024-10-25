@@ -5,7 +5,7 @@
 Aspiring full-stack developer :computer: with a penchant for arts :art:
 
 - ⚙️ I use: `java`, `javascript`, `typescript`, `C`, `python`
-- :framed_picture: I design with: `inkscape`, `illustrator`, `canva`, `clip studio paint`
+- :framed_picture: I design with: `inkscape`, `illustrator`, `figma`, `canva`, `clip studio paint`
 - :school: studying in: `Nanyang Technological University - Computer Science`
 
 <br><br><br>
