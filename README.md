@@ -8,7 +8,7 @@ Aspiring full-stack developer :computer: with a penchant for arts :art:
 - :framed_picture: I design with: `inkscape`, `illustrator`, `figma`, `canva`, `clip studio paint`
 - :school: studying in: `Nanyang Technological University - Computer Science`
 
-<br><br><br>
+<br><br><br><br>
 
 ## How To Reach Me ‎ <img src="assets/confused.gif" alt="confused-spinning" height="25px">
 
